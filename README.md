@@ -2,6 +2,6 @@
 
 deploying backend server 
 
-render.com/
-railway.app
-cyclic.com
+1. render.com
+2. railway.app
+3. cyclic.com
